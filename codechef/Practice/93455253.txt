@@ -1,0 +1,8 @@
+// Problem: 
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/93455253
+// Solved on: 2026-11-24T12:18:59.733Z
+
+// source not captured automatically - open the solution page and copy it manually
